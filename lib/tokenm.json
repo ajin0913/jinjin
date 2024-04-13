@@ -47,7 +47,7 @@
     "pikpak_danmu": true,
     "wgcf_key": "mGijNSk5lnvUq1Fgty1J5bD6zxyonIHqYlXtpQsd1Gw=",
     "wgcf_key2": "MG5B8M+YkcpA2xy/8gtLbcwPOGDQp115hcMMRI8bEmA=",
-    "wgcf_ipport": "162.159.192.220:894"，
+    "wgcf_ipport": "162.159.192.220:894",
     "wgcf_xray_url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ajin0913/jinjin/main/lib/xray.gz",
     "wgcf_json_url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ajin0913/jinjin/main/lib/wgcf.json",
     "wgcf_geoip_url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ajin0913/jinjin/main/lib/geoip.dat.gz",

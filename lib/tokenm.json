@@ -47,15 +47,15 @@
     "pikpak_danmu": true,
     "wgcf_key": "mGijNSk5lnvUq1Fgty1J5bD6zxyonIHqYlXtpQsd1Gw=",
     "wgcf_key2": "MG5B8M+YkcpA2xy/8gtLbcwPOGDQp115hcMMRI8bEmA=",
-    "wgcf_ipport": "162.159.195.173:2506",
+    "wgcf_ipport": "162.159.192.220:894"，
     "wgcf_xray_url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ajin0913/jinjin/main/lib/xray.gz",
     "wgcf_json_url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ajin0913/jinjin/main/lib/wgcf.json",
     "wgcf_geoip_url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ajin0913/jinjin/main/lib/geoip.dat.gz",
-    "wgcf_vless_id": "e58fad9f-4af4-4760-b515-f0950eb0c026",
-    "wgcf_vless_optname": "www.visa.com.sg:8080",
-    "wgcf_vless_worker": "vlessnode.gyj0595.workers.dev",
+    "wgcf_vless_id": "79dcba6d-68be-488f-9265-adddc027546f",
+    "wgcf_vless_optname": "www.visa.com.sg:2053",
+    "wgcf_vless_worker": "3848cfd1.v2ray-92y.pages.dev",
     "wgcf_vless_path": "/?ed=2048",
     "wgcf_vless_protocol": "vless",
     "wgcf_vless_network": "ws",
-    "wgcf_vless_tls": false
+    "wgcf_vless_tls": true
 }

@@ -52,10 +52,10 @@
     "wgcf_json_url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ajin0913/jinjin/main/lib/wgcf.json",
     "wgcf_geoip_url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ajin0913/jinjin/main/lib/geoip.dat.gz",
     "wgcf_vless_id": "e8d6b46a-d61a-11ee-aaa8-00505603e70d",
-    "wgcf_vless_optname": "st-gb-1.brocdn.com:443",
-    "wgcf_vless_worker": "st-gb-1.brocdn.com",
-    "wgcf_vless_path": "/websocket",
+    "wgcf_vless_optname": "www.visa.com.sg:8080",
+    "wgcf_vless_worker": "vlessnode.gyj0595.workers.dev",
+    "wgcf_vless_path": "/?ed=2048",
     "wgcf_vless_protocol": "vless",
     "wgcf_vless_network": "ws",
-    "wgcf_vless_tls": true
+    "wgcf_vless_tls": false
 }

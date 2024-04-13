@@ -52,7 +52,7 @@
     "wgcf_json_url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ajin0913/jinjin/main/lib/wgcf.json",
     "wgcf_geoip_url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ajin0913/jinjin/main/lib/geoip.dat.gz",
     "wgcf_vless_id": "79dcba6d-68be-488f-9265-adddc027546f",
-    "wgcf_vless_optname": "www.visa.com.sg:2053",
+    "wgcf_vless_optname": "singapore.com:443",
     "wgcf_vless_worker": "3848cfd1.v2ray-92y.pages.dev",
     "wgcf_vless_path": "/?ed=2048",
     "wgcf_vless_protocol": "vless",

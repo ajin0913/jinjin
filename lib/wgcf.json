@@ -27,7 +27,7 @@
         "servers": [
           {
             "address": "zf02.lbxx.pro",         
-            "method": "chacha20-poly1305",
+            "method": "chacha20-ietf-poly1305",
             "password": "ce9b88f6-8abc-4edc-b518-7aef968f4211",
             "port": 50220
           }

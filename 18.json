@@ -90,7 +90,7 @@
                 "ratio": 1.5
             }
         },
-        {"key":"SeHuaTang","name":"色花堂","type":3,"api":"csp_SeHuaTang","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"null$$$127.0.0.1:10074","style": {"type": "rect","ratio": 1.5}},
+        {"key":"SeHuaTang","name":"色花堂","type":3,"api":"csp_SeHuaTang","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"null$$$127.0.0.1:10075","style": {"type": "rect","ratio": 1.5}},
         {
             "key": "csp_Netflav",
             "name": "Netflav",

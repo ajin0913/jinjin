@@ -11,7 +11,7 @@
         }
     ],
     "sites": [
-        {"key":"玩偶哥哥","name":"玩偶网盘","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ajin0913/jinjin/main/lib/tokenm.json$$$https://api.wogg.xyz/$$$127.0.0.1:10072”$$$1$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/ajin0913/jinjin/main/lib/wogg.json","timeout":60},
+        {"key":"玩偶哥哥","name":"玩偶网盘","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ajin0913/jinjin/main/lib/tokenm.json$$$https://api.wogg.xyz/$$$127.0.0.1:10071$$$1$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/ajin0913/jinjin/main/lib/wogg.json","timeout":60},
         {
             "key": "AliShare",
             "name": "网盘资源",

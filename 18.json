@@ -11,7 +11,7 @@
         }
     ],
     "sites": [
-        {"key":"玩偶哥哥","name":"玩偶网盘","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ajin0913/jinjin/main/lib/tokenm.json$$$https://api.wogg.xyz/$$$127.0.0.1:10074”$$$1$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/ajin0913/jinjin/main/lib/wogg.json","timeout":60},
+        {"key":"玩偶哥哥","name":"玩偶网盘","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/ajin0913/jinjin/main/lib/tokenm.json$$$https://api.wogg.xyz/$$$127.0.0.1:10072”$$$1$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/ajin0913/jinjin/main/lib/wogg.json","timeout":60},
         {
             "key": "AliShare",
             "name": "网盘资源",
@@ -25,19 +25,6 @@
                 "ratio": 1.1
             },
             "timeout": 60
-        },
-        {
-            "key": "配置中心",
-            "name": "配置中心",
-            "type": 3,
-            "api": "csp_Config",
-            "searchable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ajin0913/jinjin/main/lib/tokenm.json"
         },
         {
             "key": "PikPakShare",
@@ -85,7 +72,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "null$$$127.0.0.1:10074",
+            "ext": "null$$$127.0.0.1:10072",
             "style": {
                 "type": "rect",
                 "ratio": 1.5
@@ -100,7 +87,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 0,
-            "ext": "https://netflav5.com/$$$127.0.0.1:10074",
+            "ext": "https://netflav5.com/$$$127.0.0.1:10072",
             "timeout": 60
         },
         {
@@ -113,7 +100,7 @@
             "changeable": 1,
             "filterable": 0,
             "timeout": 60,
-            "ext": "http://thze.cc/$$$127.0.0.1:10074"
+            "ext": "http://thze.cc/$$$127.0.0.1:10072"
         },
         {
             "key": "Cable",
@@ -124,7 +111,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 0,
-            "ext": "127.0.0.1:10074",
+            "ext": "127.0.0.1:10072",
             "timeout": 60
         },
         {
@@ -140,7 +127,7 @@
                 "type": "rect",
                 "ratio": 1.77
             },
-            "ext": "https://www.dmmsee.art/$$$127.0.0.1:10074",
+            "ext": "https://www.dmmsee.art/$$$127.0.0.1:10072",
             "timeout": 60
         },
         {
@@ -152,7 +139,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://javdb365.com/$$$127.0.0.1:10074",
+            "ext": "https://javdb365.com/$$$127.0.0.1:10072",
             "style": {
                 "type": "rect",
                 "ratio": 1.77
@@ -165,13 +152,13 @@
             "type": 3,
             "api": "csp_NiNi",
             "searchable": 1,
-            "ext": "1$$$127.0.0.1:10074"
+            "ext": "1$$$127.0.0.1:10072"
         },
         {
             "key": "量子",
             "name": "量子",
             "type": 0,
-            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10074/https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10072/https://cj.lziapi.com/api.php/provide/vod/at/xml/",
             "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
             "searchable": 1,
             "changeable": 1,
@@ -183,7 +170,7 @@
             "key": "非凡",
             "name": "非凡",
             "type": 0,
-            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10074/http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10072/http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
             "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
             "searchable": 1,
             "changeable": 1,
@@ -195,7 +182,7 @@
             "key": "草帽资源",
             "name": "草帽",
             "type": 1,
-            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10074/https://cmzy.top/api.php/provide/vod/?ac=list",
+            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10072/https://cmzy.top/api.php/provide/vod/?ac=list",
             "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
             "searchable": 1
         },
@@ -206,7 +193,7 @@
             "api": "csp_Doll",
             "searchable": 1,
             "recordable": 0,
-            "ext": "127.0.0.1:10074",
+            "ext": "127.0.0.1:10072",
             "style": {
                 "type": "rect",
                 "ratio": 1.309
@@ -219,7 +206,7 @@
             "api": "csp_Eighteen",
             "searchable": 1,
             "recordable": 0,
-            "ext": "127.0.0.1:10074",
+            "ext": "127.0.0.1:10072",
             "style": {
                 "type": "rect",
                 "ratio": 1.485
@@ -230,7 +217,7 @@
             "name": "Jable",
             "type": 3,
             "api": "csp_Jable",
-            "ext": "127.0.0.1:10074",
+            "ext": "127.0.0.1:10072",
             "searchable": 1,
             "recordable": 0,
             "style": {
@@ -243,7 +230,7 @@
             "name": "MissAV",
             "type": 3,
             "api": "csp_Miss",
-            "ext": "127.0.0.1:10074",
+            "ext": "127.0.0.1:10072",
             "searchable": 1,
             "recordable": 0,
             "style": {
@@ -256,7 +243,7 @@
             "name": "Hanime",
             "type": 3,
             "api": "csp_Hanime",
-            "ext": "127.0.0.1:10074",
+            "ext": "127.0.0.1:10072",
             "searchable": 1,
             "recordable": 0,
             "style": {
@@ -268,7 +255,7 @@
             "key": "玉兔资源",
             "name": "玉兔资源",
             "type": 0,
-            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10074/https://apiyutu.com/api.php/provide/vod/at/xml/",
+            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10072/https://apiyutu.com/api.php/provide/vod/at/xml/",
             "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
             "searchable": 1,
             "style": {
@@ -281,7 +268,7 @@
             "key": "奥斯卡资源网",
             "name": "奥斯卡资源网",
             "type": 1,
-            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10074/https://aosikazy.com/api.php/provide/vod/",
+            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10072/https://aosikazy.com/api.php/provide/vod/",
             "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
             "searchable": 1
         },
@@ -289,7 +276,7 @@
             "key": "wmcj8.com",
             "name": "成人05",
             "type": 0,
-            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10074/http://wmcj8.com/inc/sapi.php",
+            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10072/http://wmcj8.com/inc/sapi.php",
             "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
             "searchable": 1,
             "recordable": 0,
@@ -306,7 +293,7 @@
             "key": "apilj.com",
             "name": "成人06",
             "type": 1,
-            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10074/http://apilj.com/api.php/provide/vod/at/json/",
+            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10072/http://apilj.com/api.php/provide/vod/at/json/",
             "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
             "searchable": 1,
             "recordable": 0,
@@ -323,7 +310,7 @@
             "key": "91md.me",
             "name": "成人07",
             "type": 1,
-            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10074/http://91md.me/api.php/provide/vod/",
+            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10072/http://91md.me/api.php/provide/vod/",
             "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
             "searchable": 1,
             "recordable": 0,
@@ -340,7 +327,7 @@
             "key": "dadiapi.com",
             "name": "成人09",
             "type": 0,
-            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10074/http://dadiapi.com/api.php",
+            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10072/http://dadiapi.com/api.php",
             "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
             "searchable": 1,
             "recordable": 0,
@@ -357,7 +344,7 @@
             "key": "llzxcj.com",
             "name": "成人11",
             "type": 0,
-            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10074/http://llzxcj.com/inc/sck.php?ac=videolist",
+            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10072/http://llzxcj.com/inc/sck.php?ac=videolist",
             "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
             "searchable": 1,
             "recordable": 0,
@@ -374,7 +361,7 @@
             "key": "bttcj.com",
             "name": "成人12",
             "type": 0,
-            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10074/http://bttcj.com/inc/sapi.php",
+            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10072/http://bttcj.com/inc/sapi.php",
             "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
             "searchable": 1,
             "recordable": 0,
@@ -391,7 +378,7 @@
             "key": "f2dcj6.com",
             "name": "成人14",
             "type": 0,
-            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10074/http://f2dcj6.com/sapi?ac=videolist",
+            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10072/http://f2dcj6.com/sapi?ac=videolist",
             "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
             "searchable": 1,
             "recordable": 0,
@@ -408,7 +395,7 @@
             "key": "api.11bat.com",
             "name": "成人15",
             "type": 0,
-            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10074/http://api.11bat.com/api.php/provide/vod/at/xml",
+            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10072/http://api.11bat.com/api.php/provide/vod/at/xml",
             "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
             "searchable": 1,
             "recordable": 0,
@@ -425,7 +412,7 @@
             "key": "api.maozyapi.com",
             "name": "成人16",
             "type": 1,
-            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10074/https://api.maozyapi.com/inc/apijson_vod.php",
+            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10072/https://api.maozyapi.com/inc/apijson_vod.php",
             "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
             "searchable": 1,
             "recordable": 0,
@@ -442,7 +429,7 @@
             "key": "apittzy.com",
             "name": "成人18",
             "type": 1,
-            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10074/https://apittzy.com/api.php/provide/vod/",
+            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10072/https://apittzy.com/api.php/provide/vod/",
             "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
             "searchable": 1,
             "recordable": 0,
@@ -459,7 +446,7 @@
             "key": "gdlsp.com",
             "name": "成人19",
             "type": 0,
-            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10074/https://www.gdlsp.com/api/xml.php",
+            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10072/https://www.gdlsp.com/api/xml.php",
             "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
             "searchable": 1,
             "recordable": 0,
@@ -476,7 +463,7 @@
             "key": "msnii.com",
             "name": "成人20",
             "type": 0,
-            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10074/https://www.msnii.com/api/xml.php",
+            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10072/https://www.msnii.com/api/xml.php",
             "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
             "searchable": 1,
             "recordable": 0,
@@ -493,7 +480,7 @@
             "key": "xrbsp.com",
             "name": "成人21",
             "type": 0,
-            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10074/https://www.xrbsp.com/api/xml.php",
+            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10072/https://www.xrbsp.com/api/xml.php",
             "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
             "searchable": 1,
             "recordable": 0,
@@ -510,7 +497,7 @@
             "key": "kxgav.com",
             "name": "成人22",
             "type": 0,
-            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10074/https://www.kxgav.com/api/xml.php",
+            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10072/https://www.kxgav.com/api/xml.php",
             "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
             "searchable": 1,
             "recordable": 0,
@@ -527,7 +514,7 @@
             "key": "kkzy.me",
             "name": "成人23",
             "type": 1,
-            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10074/https://kkzy.me/api.php/provide/vod/",
+            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10072/https://kkzy.me/api.php/provide/vod/",
             "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
             "searchable": 1,
             "recordable": 0,
@@ -544,7 +531,7 @@
             "key": "shayuapi.com",
             "name": "成人24",
             "type": 1,
-            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10074/https://shayuapi.com/api.php/provide/vod/",
+            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10072/https://shayuapi.com/api.php/provide/vod/",
             "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
             "searchable": 1,
             "recordable": 0,
@@ -561,7 +548,7 @@
             "key": "afasu.com",
             "name": "成人25",
             "type": 0,
-            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10074/https://www.afasu.com/api/xml.php",
+            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10072/https://www.afasu.com/api/xml.php",
             "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
             "searchable": 1,
             "recordable": 0,
@@ -578,7 +565,7 @@
             "key": "lbapi9.com",
             "name": "成人26",
             "type": 1,
-            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10074/https://lbapi9.com/api.php/provide/vod/",
+            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10072/https://lbapi9.com/api.php/provide/vod/",
             "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
             "searchable": 1,
             "recordable": 0,
@@ -595,7 +582,7 @@
             "key": "api.apilyzy.com",
             "name": "成人27",
             "type": 1,
-            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10074/https://api.apilyzy.com/api.php/provide/vod/",
+            "api": "http://127.0.0.1:10079/p/0/127.0.0.1:10072/https://api.apilyzy.com/api.php/provide/vod/",
             "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
             "searchable": 1,
             "recordable": 0,

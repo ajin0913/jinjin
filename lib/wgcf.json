@@ -153,10 +153,10 @@
             "settings": {
                 "servers": [
                     {
-                        "address": "183.240.222.103",
+                        "address": "36.138.227.235",
                         "method": "aes-256-gcm",
                         "password": "ef974e31-a72f-4ed1-a34e-469f075ea579",
-                        "port": 40007
+                        "port": 40026
                     }
                 ]
             },
